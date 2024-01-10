@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Thomasg2169
-- 👀 I’m interested in watching anime
 - 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me ...
